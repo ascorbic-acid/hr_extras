@@ -1,6 +1,6 @@
 ## Hr Extras
 
-additional HR doctypes
+additional HR doctypes app
 
 -User Account Creation or Amendment Form
 
