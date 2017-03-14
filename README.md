@@ -1,6 +1,6 @@
 ## Hr Extras
 
-additional HR doctypes app
+additional ERPNext HR doctypes app
 
 -User Account Creation or Amendment Form
 
