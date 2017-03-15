@@ -4,6 +4,10 @@ additional ERPNext HR doctypes app
 
 -User Account Creation or Amendment Form
 
+-receiving correspondence
+
+-sending correspondence
+
 -Interview Evaluation
 
 -Requisition of Materials or Services
@@ -17,3 +21,4 @@ additional ERPNext HR doctypes app
 #### License
 
 MIT
+
