@@ -10,7 +10,7 @@ additional ERPNext HR doctypes app
 
 -Custody Returning
 
--Custody Issuance Form
+-Custody Issuance
 
 -Overtime
 
